@@ -1,0 +1,17 @@
+# Laravel
+laravel/.env
+laravel/vendor/
+laravel/storage/app/private/*
+laravel/storage/framework/
+laravel/storage/logs/
+laravel/bootstrap/cache/
+
+# React
+react/node_modules/
+react/dist/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
