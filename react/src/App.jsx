@@ -12,7 +12,7 @@ function App() {
   const fileInputRef = useRef(null)
 
   /*
-   * Poll import status while processing.
+   * Poll import status while processing. this is updated function
    */
   useEffect(() => {
     if (!importData?.id) {
